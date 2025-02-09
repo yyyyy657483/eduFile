@@ -24,6 +24,12 @@
 
 ### Chapter 3. 인공신경망기초 : 25.02.03 ~ 25.02.11
 - 인공신경망 이론
-- CNN
+  + [퍼셉트론 실습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch01)
+  + [신경망 기초 실습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch02)
+  + [신경망 학습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch03)
+  + [오차 역전파법](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch04)
+  + [학습 관련 기술 실습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch05)
+- [CNN](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch06)
 - ResNet
+  + 암석식별머신 실습
 
