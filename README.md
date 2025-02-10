@@ -1,5 +1,21 @@
 # eduFile
 
+#### 설치한 라이브러리
+- numpy: Numerical Python 패키지   
+  + pip install numpy   
+- pandas: 파이썬 데이터 분석 라이브러리   
+  + pip install pandas   
+- matplotlib: 파이썬 시각화 도구   
+  + pip install matplotlib   
+- seaborn: 파이썬 시각화 도구   
+  + pip install seaborn   
+- folium: 지도 시각화 라이브러리   
+  + pip install folium   
+- PIL: 이미지 분석 라이브러리   
+  + pip install pillow
+- OpenCv: 컴퓨터 비전 라이브러리  
+  + pip install opencv-python  
+
 #### Chapter 1. 파이썬 기본 : 24.12.19 ~ 24.12.31
 - 파이썬 기본(1)  [241219](https://github.com/yyyyy657483/eduFile/blob/main/ch1/241219.ipynb)
 - 파이썬 기본(2)  [241220](https://github.com/yyyyy657483/eduFile/blob/main/ch1/241220.ipynb)
@@ -22,7 +38,7 @@
 - 번외. 크롤링 
   + [Selenium 사용하기](https://github.com/yyyyy657483/eduFile/blob/main/ch2/250131.ipynb)
 
-### Chapter 3. 인공신경망기초 : 25.02.03 ~ 25.02.11
+### Chapter 3.1 인공신경망기초 : 25.02.03 ~ 25.02.11
 - 인공신경망 이론
   + [퍼셉트론 실습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch01)
   + [신경망 기초 실습](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch02)
@@ -32,4 +48,5 @@
 - [CNN](https://github.com/yyyyy657483/eduFile/tree/main/ch3/ch06)
 - ResNet
   + 암석식별머신 실습
-
+### Chapter 3.2 번외
+- OpenCV
