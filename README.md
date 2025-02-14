@@ -15,7 +15,9 @@
   + pip install pillow
 - OpenCv: 컴퓨터 비전 라이브러리  
   + pip install opencv-python  
-
+- gradio
+  + pip install gradio
+ 
 #### Chapter 1. 파이썬 기본 : 24.12.19 ~ 24.12.31
 - 파이썬 기본(1)  [241219](https://github.com/yyyyy657483/eduFile/blob/main/ch1/241219.ipynb)
 - 파이썬 기본(2)  [241220](https://github.com/yyyyy657483/eduFile/blob/main/ch1/241220.ipynb)
@@ -50,3 +52,4 @@
   + 암석식별머신 실습
 ### Chapter 3.2 번외
 - OpenCV
+-- 
